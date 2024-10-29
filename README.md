@@ -18,9 +18,9 @@ python main.py
 ## Pruebas Unitarias
 El archivo test_main.py contiene pruebas unitarias para validar el funcionamiento del programa. Se incluyen tres pruebas:
 
-1. Prueba de edad mayor o igual a 18: verifica que el programa permita obtener el carnet para edades de 18 o más.
-2. Prueba de edad menor a 18: verifica que el programa niegue el carnet para edades menores de 18.
-3. Prueba con edad negativa: esta prueba está diseñada para fallar, mostrando cómo el programa no maneja este caso de entrada no válida.
+1. **Prueba de edad mayor o igual a 18**: verifica que el programa permita obtener el carnet para edades de 18 o más.
+2. **Prueba de edad menor a 18**: verifica que el programa niegue el carnet para edades menores de 18.
+3. **Prueba con edad negativa**: esta prueba está diseñada para fallar, mostrando cómo el programa no maneja este caso de entrada no válida.
 ## Ejecución de las Pruebas
 Para ejecutar las pruebas unitarias, en una terminal de VSCode usar el siguiente comando:
 
